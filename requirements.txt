@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+selenium
+pandas
+streamlit
+requests
+python-dateutil
